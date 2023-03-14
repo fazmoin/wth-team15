@@ -1,0 +1,13 @@
+{
+
+    "image" : "mcr.microsoft.com/devcontainers/dotnet:0-7.0",
+        
+    "name" : "C# (.NET)",
+
+    "features": {
+        "ghcr.io/devcontainers/features/azure-cli:1": {
+            "version": "latest"
+        }
+      }
+
+}
